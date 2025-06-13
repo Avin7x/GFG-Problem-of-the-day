@@ -23,4 +23,4 @@ Each folder/file is named by date and contains the solution to that day's proble
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/gfg-potd-solutions.git
+   git clone https://github.com/Avin7x/GFG-Problem-of-the-day.git
